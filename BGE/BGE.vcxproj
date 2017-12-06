@@ -99,6 +99,7 @@
     </CustomBuildStep>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Assignment.cpp" />
     <ClCompile Include="AttackingState.cpp" />
     <ClCompile Include="Buddha.cpp" />
     <ClCompile Include="Capsule.cpp" />
@@ -143,7 +144,6 @@
     <ClCompile Include="Params.cpp" />
     <ClCompile Include="PhysicsCamera.cpp" />
     <ClCompile Include="PhysicsFactory.cpp" />
-    <ClCompile Include="PhysicsGame1.cpp" />
     <ClCompile Include="PhysicsController.cpp" />
     <ClCompile Include="RiftController.cpp" />
     <ClCompile Include="SoundSystem.cpp" />
@@ -157,6 +157,7 @@
     <ClCompile Include="XBoxController.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Assignment.h" />
     <ClInclude Include="AttackingState.h" />
     <ClInclude Include="Buddha.h" />
     <ClInclude Include="Capsule.h" />
@@ -200,7 +201,6 @@
     <ClInclude Include="Params.h" />
     <ClInclude Include="PhysicsCamera.h" />
     <ClInclude Include="PhysicsFactory.h" />
-    <ClInclude Include="PhysicsGame1.h" />
     <ClInclude Include="PhysicsController.h" />
     <ClInclude Include="RiftController.h" />
     <ClInclude Include="SoundSystem.h" />

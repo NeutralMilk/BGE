@@ -1,6 +1,5 @@
 #include "PhysicsCamera.h"
 #include "Game.h"
-#include "PhysicsGame1.h"
 #include "Box.h"
 #include <iostream>
 #include <sstream>

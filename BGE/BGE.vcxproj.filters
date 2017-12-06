@@ -110,9 +110,6 @@
     <ClCompile Include="XBoxController.cpp">
       <Filter>Controllers</Filter>
     </ClCompile>
-    <ClCompile Include="PhysicsGame1.cpp">
-      <Filter>Games</Filter>
-    </ClCompile>
     <ClCompile Include="SoundSystem.cpp">
       <Filter>Engine</Filter>
     </ClCompile>
@@ -212,6 +209,9 @@
     <ClCompile Include="Lab3.cpp">
       <Filter>Labs</Filter>
     </ClCompile>
+    <ClCompile Include="Assignment.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Camera.h">
@@ -276,9 +276,6 @@
     </ClInclude>
     <ClInclude Include="XBoxController.h">
       <Filter>Controllers</Filter>
-    </ClInclude>
-    <ClInclude Include="PhysicsGame1.h">
-      <Filter>Games</Filter>
     </ClInclude>
     <ClInclude Include="dirent.h">
       <Filter>Engine</Filter>
@@ -378,6 +375,9 @@
     </ClInclude>
     <ClInclude Include="Lab3.h">
       <Filter>Labs</Filter>
+    </ClInclude>
+    <ClInclude Include="Assignment.h">
+      <Filter>Engine</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
